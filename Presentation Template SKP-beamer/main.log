@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.2)  7 MAY 2023 09:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.2)  7 MAY 2023 20:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1262,20 +1262,20 @@ Overfull \hbox (1.38991pt too wide) in paragraph at lines 23--23
  []
 
 
-Overfull \hbox (72.23663pt too wide) detected at line 23
+Overfull \hbox (56.99747pt too wide) detected at line 23
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
-<images/logo.png, id=158, 2007.5pt x 2689.04625pt>
+<images/logo.png, id=114, 2007.5pt x 2689.04625pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
 Package pdftex.def Info: images/logo.png  used on input line 27.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1292,9 +1292,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 34.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1322,9 +1322,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 69.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1364,9 +1364,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 93.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1382,9 +1382,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 111.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1400,9 +1400,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 113.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1413,7 +1413,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [6
 
 ]
-<1.png, id=655, 277.63725pt x 118.64325pt>
+<1.png, id=643, 277.63725pt x 118.64325pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 118.
@@ -1428,9 +1428,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 118.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1441,7 +1441,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [7
 
  <./1.png>]
-<2.png, id=728, 118.041pt x 65.043pt>
+<2.png, id=720, 118.041pt x 65.043pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 153.
@@ -1451,9 +1451,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 153.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1469,9 +1469,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 166.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1487,9 +1487,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 179.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1505,9 +1505,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 212.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1523,9 +1523,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 238.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1541,9 +1541,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 241.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1559,9 +1559,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 245.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1577,9 +1577,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 271.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1595,9 +1595,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 290.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1608,7 +1608,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [16
 
 ]
-<3.png, id=1374, 266.1945pt x 79.497pt>
+<3.png, id=1402, 266.1945pt x 79.497pt>
 File: 3.png Graphic file (type png)
 <use 3.png>
 Package pdftex.def Info: 3.png  used on input line 294.
@@ -1623,9 +1623,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 294.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1636,7 +1636,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [17
 
  <./3.png>]
-<4.png, id=1446, 217.41225pt x 112.62074pt>
+<4.png, id=1478, 217.41225pt x 112.62074pt>
 File: 4.png Graphic file (type png)
 <use 4.png>
 Package pdftex.def Info: 4.png  used on input line 299.
@@ -1646,9 +1646,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 299.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1664,9 +1664,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 302.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1682,9 +1682,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 327.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1700,9 +1700,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 342.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1754,9 +1754,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 359.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1767,7 +1767,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [22
 
 ]
-<5.png, id=1812, 299.31825pt x 118.64325pt>
+<5.png, id=1864, 299.31825pt x 118.64325pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
 Package pdftex.def Info: 5.png  used on input line 365.
@@ -1777,9 +1777,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 365.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1795,9 +1795,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 381.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1813,9 +1813,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 398.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1826,7 +1826,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [25
 
 ]
-<6.png, id=2025, 262.581pt x 115.632pt>
+<6.png, id=2089, 262.581pt x 115.632pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
 Package pdftex.def Info: 6.png  used on input line 402.
@@ -1841,9 +1841,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 402.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1859,9 +1859,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 405.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1877,9 +1877,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 424.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1908,9 +1908,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 443.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1926,9 +1926,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 456.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1939,7 +1939,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [30
 
 ]
-<7.png, id=2387, 548.0475pt x 125.268pt>
+<7.png, id=2471, 548.0475pt x 125.268pt>
 File: 7.png Graphic file (type png)
 <use 7.png>
 Package pdftex.def Info: 7.png  used on input line 472.
@@ -1949,9 +1949,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 472.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1967,9 +1967,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 486.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -1985,9 +1985,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 488.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2003,9 +2003,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 505.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2016,7 +2016,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [34
 
 ]
-<9.png, id=2680, 217.41225pt x 88.53075pt>
+<9.png, id=2780, 217.41225pt x 88.53075pt>
 File: 9.png Graphic file (type png)
 <use 9.png>
 Package pdftex.def Info: 9.png  used on input line 520.
@@ -2031,9 +2031,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 520.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2044,7 +2044,7 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [35
 
  <./9.png>]
-<10.png, id=2752, 244.5135pt x 98.16675pt>
+<10.png, id=2856, 244.5135pt x 98.16675pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
 Package pdftex.def Info: 10.png  used on input line 531.
@@ -2059,9 +2059,9 @@ File: images/logo.png Graphic file (type png)
 Package pdftex.def Info: images/logo.png  used on input line 531.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2074,12 +2074,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
  <./10.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 557.
+Package pdftex.def Info: images/logo.png  used on input line 553.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2090,36 +2090,14 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [37
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 615
-.
- (C:\Users\riyac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 615
-.
-
-(C:\Users\riyac\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 615.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 615.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 615.
-
-Overfull \hbox (1.43848pt too wide) in paragraph at lines 615--615
-[]|\T1/phv/m/n/8 Orange| 
- []
-
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 615.
+Package pdftex.def Info: images/logo.png  used on input line 567.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2132,12 +2110,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 617.
+Package pdftex.def Info: images/logo.png  used on input line 570.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2148,19 +2126,24 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [39
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+phv on input line 6
-33.
- (C:\Users\riyac\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
-File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
-)
+<11.png, id=3165, 205.9695pt x 72.27pt>
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 582.
+(pdftex.def)             Requested size: 308.95346pt x 108.40471pt.
+
+Overfull \hbox (18.66383pt too wide) in paragraph at lines 582--582
+[][]  
+ []
+
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 633.
+Package pdftex.def Info: images/logo.png  used on input line 582.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2170,20 +2153,15 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [40
 
-]
-<89.png, id=3116, 422.32782pt x 280.79906pt>
-File: 89.png Graphic file (type png)
-<use 89.png>
-Package pdftex.def Info: 89.png  used on input line 636.
-(pdftex.def)             Requested size: 211.16339pt x 140.39919pt.
+ <./11.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 636.
+Package pdftex.def Info: images/logo.png  used on input line 584.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2193,15 +2171,15 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [41
 
- <./89.png>]
+]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 642.
+Package pdftex.def Info: images/logo.png  used on input line 588.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2214,12 +2192,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 668.
+Package pdftex.def Info: images/logo.png  used on input line 590.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2230,14 +2208,23 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [43
 
 ]
+File: 11.png Graphic file (type png)
+<use 11.png>
+Package pdftex.def Info: 11.png  used on input line 604.
+(pdftex.def)             Requested size: 308.95346pt x 108.40471pt.
+
+Overfull \hbox (18.66383pt too wide) in paragraph at lines 604--604
+[][]  
+ []
+
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 670.
+Package pdftex.def Info: images/logo.png  used on input line 604.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2250,12 +2237,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 706.
+Package pdftex.def Info: images/logo.png  used on input line 632.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2268,12 +2255,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 710.
+Package pdftex.def Info: images/logo.png  used on input line 655.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2286,12 +2273,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 722.
+Package pdftex.def Info: images/logo.png  used on input line 671.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2304,12 +2291,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 734.
+Package pdftex.def Info: images/logo.png  used on input line 699.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2322,12 +2309,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 746.
+Package pdftex.def Info: images/logo.png  used on input line 718.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2338,14 +2325,19 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [49
 
 ]
+<12.png, id=3932, 179.4705pt x 105.39375pt>
+File: 12.png Graphic file (type png)
+<use 12.png>
+Package pdftex.def Info: 12.png  used on input line 724.
+(pdftex.def)             Requested size: 269.20506pt x 158.09021pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 749.
+Package pdftex.def Info: images/logo.png  used on input line 724.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2355,15 +2347,15 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [50
 
-]
+ <./12.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 796.
+Package pdftex.def Info: images/logo.png  used on input line 746.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2374,14 +2366,19 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [51
 
 ]
+<13.png, id=4082, 92.14426pt x 37.3395pt>
+File: 13.png Graphic file (type png)
+<use 13.png>
+Package pdftex.def Info: 13.png  used on input line 776.
+(pdftex.def)             Requested size: 138.21602pt x 56.00908pt.
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 843.
+Package pdftex.def Info: images/logo.png  used on input line 776.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2391,15 +2388,25 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [52
 
-]
+ <./13.png>]
+<14.png, id=4158, 254.75175pt x 77.088pt>
+File: 14.png Graphic file (type png)
+<use 14.png>
+Package pdftex.def Info: 14.png  used on input line 790.
+(pdftex.def)             Requested size: 305.70055pt x 92.50511pt.
+
+Overfull \hbox (15.41092pt too wide) in paragraph at lines 790--790
+[][]  
+ []
+
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 846.
+Package pdftex.def Info: images/logo.png  used on input line 790.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2409,20 +2416,15 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [53
 
-]
-<images/cifar10.png, id=4089, 674.52pt x 591.20876pt>
-File: images/cifar10.png Graphic file (type png)
-<use images/cifar10.png>
-Package pdftex.def Info: images/cifar10.png  used on input line 856.
-(pdftex.def)             Requested size: 168.62958pt x 147.80182pt.
+ <./14.png>]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 856.
+Package pdftex.def Info: images/logo.png  used on input line 810.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2432,15 +2434,15 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [54
 
- <./images/cifar10.png (PNG copy)>]
+]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 858.
+Package pdftex.def Info: images/logo.png  used on input line 834.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2453,12 +2455,12 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 ]
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 871.
+Package pdftex.def Info: images/logo.png  used on input line 851.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2469,23 +2471,14 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 [56
 
 ]
-\openout4 = `main.vrb'.
-
- (main.vrb
-<images/carbon.png, id=4324, 1453.43pt x 881.2925pt>
-File: images/carbon.png Graphic file (type png)
-<use images/carbon.png>
-Package pdftex.def Info: images/carbon.png  used on input line 6.
-(pdftex.def)             Requested size: 307.28987pt x 186.3275pt.
-)
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 904.
+Package pdftex.def Info: images/logo.png  used on input line 871.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2495,15 +2488,20 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
 [57
 
- <./images/carbon.png>]
+]
+LaTeX Font Info:    Trying to load font information for TS1+phv on input line 8
+94.
+ (C:\Users\riyac\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1phv.fd
+File: ts1phv.fd 2020/03/25 scalable font definitions for TS1/phv.
+)
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 922.
+Package pdftex.def Info: images/logo.png  used on input line 894.
 (pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
 
-Overfull \hbox (72.23663pt too wide) has occurred while \output is active
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
   [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
-[][][] [][][][] [][][] [][][] [][][][][] [][][][] [][][] [][][][][]  
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
  []
 
 
@@ -2512,6 +2510,150 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
  []
 
 [58
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 918.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[59
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 946.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[60
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 969.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[61
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 992.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[62
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 1014.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[63
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 1041.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[64
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 1063.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[65
+
+]
+File: images/logo.png Graphic file (type png)
+<use images/logo.png>
+Package pdftex.def Info: images/logo.png  used on input line 1086.
+(pdftex.def)             Requested size: 16.05113pt x 21.50049pt.
+
+Overfull \hbox (56.99747pt too wide) has occurred while \output is active
+  [] [][][][][][][][] [][][][][][][] [][][][][][][][][] [][][][][][][] [][][][]
+[][][] [][][] [][][] [][][][][][][][][][][][][][][][][][][][][][][][][]  
+ []
+
+
+Overfull \hbox (1.38991pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[66
 
 ]
 \tf@nav=\write6
@@ -2525,29 +2667,22 @@ Overfull \hbox (1.38991pt too wide) has occurred while \output is active
 
  (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B6C8E8B493C588CD7DE1F04C2382100B;2059.
+(rerunfilecheck)             Checksum: 091636F9C455297C2B53EDEDF514DC15;973.
  ) 
 Here is how much of TeX's memory you used:
- 34132 strings out of 476331
- 702561 string characters out of 5787766
- 1925660 words of memory out of 5000000
- 53767 multiletter control sequences out of 15000+600000
- 554017 words of font info for 76 fonts, out of 8000000 for 9000
+ 33864 strings out of 476331
+ 696202 string characters out of 5787766
+ 1898660 words of memory out of 5000000
+ 53520 multiletter control sequences out of 15000+600000
+ 538334 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 142i,20n,136p,625b,1241s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/riyac/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cme
-xtra/cmex8.pfb><C:/Users/riyac/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmi6.pfb><C:/Users/riyac/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb><C:/Users/riyac/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/riyac/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/riyac/AppData/Local/Pr
-ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/riyac/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/riyac/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/riyac/Ap
-pData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (58 pages, 1982402 bytes).
+ 142i,20n,136p,625b,769s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/riyac/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhvb8a
+.pfb><C:/Users/riyac/AppData/Local/Programs/MiKTeX/fonts/type1/urw/helvetic/uhv
+r8a.pfb>
+Output written on main.pdf (66 pages, 1671788 bytes).
 PDF statistics:
- 4539 PDF objects out of 5155 (max. 8388607)
- 137 named destinations out of 1000 (max. 500000)
- 664 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 5242 PDF objects out of 6186 (max. 8388607)
+ 141 named destinations out of 1000 (max. 500000)
+ 441 words of extra memory for PDF output out of 10000 (max. 10000000)
 

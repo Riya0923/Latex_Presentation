@@ -4,17 +4,6 @@
 \beamer@sectionintoc {3}{\textbf {Grid Computing}}{19}{0}{3}
 \beamer@sectionintoc {4}{\textbf {Cluster Computing}}{27}{0}{4}
 \beamer@sectionintoc {5}{\textbf {Utility Computing}}{33}{0}{5}
-\beamer@sectionintoc {6}{Cloud Computing}{39}{0}{6}
-\beamer@subsectionintoc {6}{1}{IaaS}{40}{0}{6}
-\beamer@subsectionintoc {6}{2}{PaaS}{42}{0}{6}
-\beamer@sectionintoc {7}{Blocks}{42}{0}{7}
-\beamer@sectionintoc {8}{Boxes}{44}{0}{8}
-\beamer@sectionintoc {9}{Lists}{46}{0}{9}
-\beamer@subsectionintoc {9}{1}{List items}{47}{0}{9}
-\beamer@subsectionintoc {9}{2}{Numbered list}{48}{0}{9}
-\beamer@subsectionintoc {9}{3}{Descriptive list}{49}{0}{9}
-\beamer@sectionintoc {10}{Tables}{50}{0}{10}
-\beamer@sectionintoc {11}{Figures}{53}{0}{11}
-\beamer@sectionintoc {12}{Equations and Codes}{55}{0}{12}
-\beamer@subsectionintoc {12}{1}{Equations}{56}{0}{12}
-\beamer@subsectionintoc {12}{2}{Programming}{57}{0}{12}
+\beamer@sectionintoc {6}{\textbf {Cloud Computing}}{39}{0}{6}
+\beamer@sectionintoc {7}{\textbf {Thank You!!}}{41}{0}{7}
+\beamer@sectionintoc {8}{\textbf {Cloud Computing}}{43}{0}{8}
